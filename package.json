@@ -1,5 +1,5 @@
 {
-  "name": "react-native-touchable-scale",
+  "name": "@steve-moretz/react-native-touchable-scale",
   "version": "2.1.2",
   "description": "Like TouchableOpacity, but scale.",
   "main": "index.js",
