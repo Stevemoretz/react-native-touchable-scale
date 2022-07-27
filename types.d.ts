@@ -1,4 +1,4 @@
-declare module 'react-native-touchable-scale' {
+declare module '@steve-moretz/react-native-touchable-scale' {
   import React from 'react';
   import { TouchableWithoutFeedbackProps } from 'react-native';
 
